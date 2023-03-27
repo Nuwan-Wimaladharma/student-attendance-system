@@ -1,0 +1,36 @@
+#btnNewStudent {
+    -fx-background-color: rgba(0, 0, 255, 0.8);
+    -fx-text-fill: white;
+    -fx-background-radius: 20px;
+}
+#btnNewStudent:hover{
+    -fx-background-color: rgba(0, 0, 255, 0.6);
+}
+#btnSave{
+    -fx-background-color: rgba(0, 128, 0, 0.8);
+    -fx-text-fill: white;
+    -fx-background-radius: 20px;
+}
+#btnSave:hover{
+    -fx-background-color: rgba(0, 128, 0, 0.6);
+}
+#btnBrowse{
+    -fx-background-color: grey;
+    -fx-text-fill: white;
+    -fx-background-radius: 20px;
+}
+#btnBrowse:hover{
+    -fx-background-color: rgba(128, 128, 128, 0.6);
+}
+#btnClear,#btnDelete{
+    -fx-background-color: rgba(255, 0, 0, 0.8);
+    -fx-text-fill: white;
+    -fx-background-radius: 20px;
+}
+#btnClear:hover, #btnDelete:hover{
+    -fx-background-color: rgba(255, 0, 0, 0.6);
+}
+#vBoxImg{
+    -fx-border-color: black;
+    -fx-border-width: 1px;
+}
